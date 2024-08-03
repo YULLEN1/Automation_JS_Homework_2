@@ -1,0 +1,32 @@
+{
+  "name": "task_2.1",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YULLEN1/Automation_JS_Homework_2.git"
+  },
+  "keywords": [
+    "homework",
+    "yuliya"
+  ],
+  "author": "Yuliya Lener",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YULLEN1/Automation_JS_Homework_2/issues"
+  },
+  "homepage": "https://github.com/YULLEN1/Automation_JS_Homework_2#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.8.0",
+    "eslint": "^9.8.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "globals": "^15.9.0",
+    "prettier": "^3.3.3"
+  }
+}
